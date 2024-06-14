@@ -11,7 +11,7 @@ h1{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    color: #c57020;
+    color: #c1a362;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -42,8 +42,8 @@ h1{
     position: relative;
     padding: 5px 24px;
     font-size: 18px;
-    color: rgb(193, 163, 98);
-    border: 2px solid rgb(193, 163, 98);
+    color: #c1a362;
+    border: 2px solid #c1a362;
     border-radius: 34px;
     background-color: transparent;
     font-weight: 600;
@@ -133,4 +133,11 @@ h1{
   .card .info .info-right {
     align-self: flex-end;
   }
+
+#main-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
   /*Card*/
